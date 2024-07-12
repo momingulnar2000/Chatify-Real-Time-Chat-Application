@@ -49,10 +49,13 @@ Open your web browser and navigate to `http://localhost` to view the chat applic
 - **Data Persistence:** Introduce database integration to store chat history and user preferences.
 
 - **Additional Features:** Enhance user experience with features like file sharing, emojis, or private messaging.
+  
 
-![Screenshot of login Page](https://github.com/user-attachments/assets/f79a04a3-5150-4d70-b06d-67be622ffa9f)
+ ![Screenshot of login Page](https://github.com/user-attachments/assets/f79a04a3-5150-4d70-b06d-67be622ffa9f)
 
-![Screenshot of chat page](https://github.com/user-attachments/assets/9a5ed797-1825-43ec-8c10-5e1652ab55d0)
+  
+
+ ![Screenshot of chat page](https://github.com/user-attachments/assets/9a5ed797-1825-43ec-8c10-5e1652ab55d0)
 
 
 
