@@ -26,7 +26,7 @@ cd chat-app
 - **Start the server:**
 ``` node server.js ```
 
-Open your web browser and navigate to `http://localhost:5000` to view the chat application.
+Open your web browser and navigate to `http://localhost` to view the chat application.
 
 ## Learning Outcomes
 ### Technologies Explored
